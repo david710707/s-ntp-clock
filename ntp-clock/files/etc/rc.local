@@ -1,0 +1,7 @@
+/etc/init.d/sysntpd disable
+
+snmpd -c /sysconf/net-snmp/snmp/snmpd.conf
+
+/SDC/Clock &
+
+exit 0

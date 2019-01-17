@@ -13,7 +13,7 @@ config switch
 	option reset '1'
 	option enable_vlan '0'
 
-config interface 'poe'
+config interface 'lan'
 	option ifname 'eth0'
 	option _orig_ifname 'eth0'
 	option _orig_bridge 'false'

@@ -1,1 +1,1 @@
-GeneralVersion Ver0.98
+GeneralVersion Ver1.00
